@@ -41,7 +41,7 @@
              '("report"
                "\\documentclass\{report\}
                \\pagestyle{fancy}"
-               ("\\section\{%s\}" . "\\section*\{%\}")
+               ("\\section\{%s\}" . "\\section*\{%s\}")
                ("\\subsection\{%s\}" . "\\subsection*\{%s\}")
                ("\\subsubsection\{%s\}" . "\\subsubsection*\{%s\}")
 	       ("\\paragraph{%s}" . "\\paragraph*{%s}")
